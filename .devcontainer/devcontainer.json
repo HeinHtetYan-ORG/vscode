@@ -13,7 +13,7 @@
 	},
 	"overrideCommand": false,
 	"privileged": true,
-	"mounts": [
+	"mounts": [ 
 		{
 			"source": "vscode-dev",
 			"target": "/vscode-dev",
